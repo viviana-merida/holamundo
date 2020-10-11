@@ -1,3 +1,3 @@
 # holamundo
 mi primer seguimiento
-me gusta :cofee: :pizza: ,and :dancer:
+me gusta :coffee: :pizza: ,and :dancer:
